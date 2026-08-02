@@ -68,7 +68,7 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/bdabad7af7004223a57ea943d2b786f1/11111665140",
         UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
-        QA:"https://shop.jcpremiere.com/products",/0045ded1459a4d04bd1554d3242524fd/11111665140",
+        QA:"https://shop.jcpremiere.com/products/0045ded1459a4d04bd1554d3242524fd/11111665140",
 
     },
 //Barley Milk Tea
