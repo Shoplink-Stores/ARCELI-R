@@ -417,7 +417,7 @@ const products = {
 
     product52: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/0be1e413c294418bb6a6d01fa80d560c/11111665140",
 
         QA:""
 
@@ -425,7 +425,7 @@ const products = {
 
     product53: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/a4cc1167ad2c4fae8a95d96641554335/11111665140",
 
         QA:""
 
@@ -433,7 +433,7 @@ const products = {
 
     product54: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/c72250a6a21444fe887ab132556f5fb2/111116651404",
 
         QA:""
 
@@ -441,7 +441,7 @@ const products = {
 
     product55: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/691db9409e7449ae879eb5632c12be3b/11111665140",
 
         QA:""
 
