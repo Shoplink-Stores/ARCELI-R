@@ -115,341 +115,343 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/7eb594a7ee6c48a0885a200bf43e85e4/11111665140",
 
-        QA:"",
+        QA:"https://shop.jcpremiere.com/products/76f0c895c164469cb50536e25db1664b/11111665140",
 
     },
-
+//Barley Coffee Black 
     product15: {
 
         PH:"https://shop.jcpremiere.com/products/58e3d79e18324d34a9d190070cb9c6f7/11111665140",
-
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/f5f01d2dbe16492ca77c15f89a2f741b/11111665140",
+        QA:"https://shop.jcpremiere.com/products/ab70488c8a3a48beaa59cf56d86e1024/11111665140",
 
     },
-
+//Barley Coffee Classic 
     product16: {
 
         PH:"https://shop.jcpremiere.com/products/a52e38f1a59e4b0fa9c931621d6fa4c2/11111665140",
-
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/dd7f87179126433fa8877acff3f7e4fa/11111665140",
+        QA:"https://shop.jcpremiere.com/products/fd8f6e32e2114c55b470df6707a87253/11111665140",
 
     },
-
+//Barley Coffee Mocha
     product17: {
 
         PH:"https://shop.jcpremiere.com/products/6f2d9836253547e6a305f4f478979c2a/11111665140",
-
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/ae90196b00984bd2a040bca62b679e5e/11111665140",
+        QA:"https://shop.jcpremiere.com/products/30fc1b39df2c44b98038b41c2d0da398/11111665140",
 
     },
-
+//Barley Coffee Mocha Tub
     product18: {
 
         PH:"",
-
+        UA:"",
         QA:"",
 
     },
-
+//Barley Coffee Classic Tub
     product19: {
 
         PH:"",
-
+        UA:"",
         QA:"",
 
     },
-
+//Barley Coffee Black Tub
     product20: {
 
         PH:"https://shop.jcpremiere.com/products/a8b46b3b0b754b5db41b7679f2e948bb/11111665140",
-
+        UA:"",
         QA:"",
 
     },
-
+//Organic Barley Juice In Tub
     product21: {
 
         PH:"https://shop.jcpremiere.com/products/92f8095baf1b4a8f85775ef40a8a9543/11111665140",
-
+        UA:"",
         QA:"",
 
     },
-
+//Organic Barley Capsule 
     product22: {
 
         PH:"https://shop.jcpremiere.com/products/5877e5b1d21e4d5db3cec55b3c5544f7/11111665140",
-
+        UA:"https://shop.jcpremiere.com/products/e1f2d5714d6048d6a93ea28f387195bf/11111665140",
         QA:"",
 
     },
-
+//Kind Hydrating Matte Sunstick
     product23: {
 
         PH:"https://shop.jcpremiere.com/products/85e785e46c91428abc402203af57988c/11111665140",
-
+        UA:"",
         QA:"",
 
     },
-
+//Kind Revitalizing Anti-Wrinkle Facial Cream 
     product24: {
 
         PH:"https://shop.jcpremiere.com/products/a8e4f5e095014656a198a27fcec9eb4b/11111665140",
-
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/67bc19f9dae94e14aec60b26f4108eaf/11111665140",
+        QA:"https://shop.jcpremiere.com/products/70fd16cb8dbc4842a9e58b19d741a609/11111665140",
 
     },
-
+//Calvi - C
     product25: {
 
         PH:"https://shop.jcpremiere.com/products/ed228ebc49a9408b8d8f5b31e9d9d8c8/11111665140",
-
+        UA:"",
         QA:"",
 
     },
-
+//Kind Deep Hydrating Moisturizer 
     product26: {
 
         PH:"https://shop.jcpremiere.com/products/b97e18b296c94e0184af95e670898043/11111665140",
-
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/62e5ecc2d92e4dda978946dc1591ff70/11111665140",
+        QA:"https://shop.jcpremiere.com/products/8dc8ca8a51564b209466dcb7f1ea4a10/11111665140",
 
     },
-
+//Kind Hydrating Cleansing Foam 
     product27: {
 
         PH:"https://shop.jcpremiere.com/products/ba041fabc2ba4bce88fe11da3dcb18b9/11111665140",
-
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/0e594d613595449d84f655ab8f17a32f/11111665140",
+        QA:"https://shop.jcpremiere.com/products/3c929be462034373b25d12ca0bf5d742/11111665140",
 
     },
-
+//Kind Intensive Whitening Facial Cream 
     product28: {
 
         PH:"https://shop.jcpremiere.com/products/d3c993ed5ad64d93a18b46b56c85ed01/11111665140",
-
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/8611babce061456fbb1f1d0df9cc4957/11111665140",
+        QA:"https://shop.jcpremiere.com/products/61111be0be354197bc161535c4004349/11111665140",
 
     },
-
+//Kind Intensifying BB Cream
     product29: {
 
         PH:"https://shop.jcpremiere.com/products/a10a8a2fefe64b8185d72a24ee3af5fc/11111665140",
-
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/45dcf7f9f36d4714864070f0827294ba/11111665140",
+        QA:"https://shop.jcpremiere.com/products/de7550963e8b454388d09e7acb10848f/11111665140",
 
     },
-
+//Kind Revitalizing Eye Cream 
     product30: {
 
         PH:"https://shop.jcpremiere.com/products/24ae0276a3dd46da8792c863394983f9/11111665140",
-
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/1695f82c667d48f6aaca95ace8748125/11111665140",
+        QA:"https://shop.jcpremiere.com/products/75846f93679f471686e964121a162ecf/11111665140",
 
     },
-
+//Kind Revitalizing Toner
     product31: {
 
         PH:"https://shop.jcpremiere.com/products/25ad09edae604d33a31e86d268a0d274/11111665140",
-
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/1d3fde18436d423ea3d8e271cff67315/11111665140",
+        QA:"https://shop.jcpremiere.com/products/191bf74a5bb441cba8d565f1191b1c6c/11111665140",
 
     },
-
+//Kind Revitalizing Anti-Wrinkle Facial Serum 
     product32: {
 
         PH:"https://shop.jcpremiere.com/products/48d5a7e5106243f79db568a40517e039/11111665140",
-
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/6c0c2b4d498e4e3082f263029a157294/11111665140",
+        QA:"https://shop.jcpremiere.com/products/9deeb2c2ade94f6ca7354ed48998e037/11111665140",
 
     },
-
+//Kind Intensive Whitening Facial Serum
     product33: {
 
         PH:"https://shop.jcpremiere.com/products/470ce6bcaa584c228745bc36b4b3fe76/11111665140",
-
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/fbe05e9e65fa43beb7fabfd8c4cb37f4/11111665140",
+        QA:"https://shop.jcpremiere.com/products/78b7c5aaea1441009cdbed9b7aaf6c50/11111665140",
 
     },
-
+//GlutaFit
     product34: {
 
         PH:"https://shop.jcpremiere.com/products/0bacf12d76c54111836f2f671f952b48/11111665140",
+        UA:"",
         QA:"",
 
     },
-
+//4Green 
     product35: {
 
         PH:"https://shop.jcpremiere.com/products/a0a6b6457a0045b8b0fdf57fd74c6337/11111665140",
-
+        UA:"https://shop.jcpremiere.com/products/ddf3dc1b0bab4846bbd23513c5e68126/11111665140",
         QA:"",
 
     },
-
+//Omni Fit
     product36: {
 
         PH:"https://shop.jcpremiere.com/products/128491b082034368a50548c2cca2f7e1/11111665140",
-        
+        UA:"https://shop.jcpremiere.com/products/7401db0a1dd844a588ed76f3601e382e/11111665140",
         QA:"",
 
     },
-
+//Natures Own Conditioner 
     product37: {
 
         PH:"https://shop.jcpremiere.com/products/d04cee70548e4f5cbf4d0bdd0fa155b9/11111665140",
-        
+        UA:"https://shop.jcpremiere.com/products/c6ec6fcb15444c1e9394d4363de55c95/11111665140",
         QA:"",
 
     },
-
+//Natures Own Shampoo 
     product38: {
 
         PH:"https://shop.jcpremiere.com/products/3b2acec7858446ee9ba3b00b0e077f6f/11111665140",
-
+        UA:"https://shop.jcpremiere.com/products/6f23238a5e5146a6941cc502ebe15fe2/11111665140",
         QA:"",
 
     },
-
+//Natures Own Bodywash 
     product39: {
 
         PH:"https://shop.jcpremiere.com/products/38a6f4f50eea46688e843ad74ae85314/11111665140",
-        
+        UA:"https://shop.jcpremiere.com/products/a48deac8192747449c68f6c6398c8d37/11111665140",
         QA:"",
 
     },
-
+//Omni White Soap 
     product40: {
 
         PH:"https://shop.jcpremiere.com/products/81e6163cec1343c1ba9ada11a5e5bfa3/11111665140",
-        
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/9042609158a64aed890be3ccf03ca464/11111665140",
+        QA:"https://shop.jcpremiere.com/products/718ab68020cd4665a34edf6afb2f1e6e/11111665140",
 
     },
-
+//K-Pads (Day)
     product41: {
 
         PH:"https://shop.jcpremiere.com/products/e5baf433b8334fdba90bd84fa11edcb9/11111665140",
-        
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/417371c070b342ef99317e0e71973bc4/11111665140",
+        QA:"https://shop.jcpremiere.com/products/30bd38ae46f9452b87efd72519cb972e/11111665140",
 
     },
-
+//Omni White Kojic Soap 
     product42: {
 
         PH:"https://shop.jcpremiere.com/products/f1f55343af394008ad66ca572a3bdba2/11111665140",
+        UA:"https://shop.jcpremiere.com/products/a2abc7e15e584b928333e38ea38a05bb/11111665140",
         QA:"",
 
     },
-
+//K-Pads (Night) 
     product43: {
 
         PH:"https://shop.jcpremiere.com/products/18e6d917128c4d0ba7ed97c868ecf22a/11111665140",
-        
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/e89e85793b434f8e83b0a5b582447d5b/11111665140",
+        QA:"https://shop.jcpremiere.com/products/55ca51551bef40e4ba7caf98794390e2/11111665140",
 
     },
-
+//Weight Loss Program 
     product44: {
 
         PH:"https://shop.jcpremiere.com/products/bca201e48ae444358c5d351f58d8e10d/11111665140",
-        
+        UA:"",
         QA:"",
 
     },
-
+//Cell Detox Program 
     product45: {
 
         PH:"https://shop.jcpremiere.com/products/bb44713f9c6246e8bff0e2414f666da6/11111665140",
-        
+        UA:"",
         QA:"",
 
     },
-
+//Immunity Booster Program 
     product46: {
 
         PH:"https://shop.jcpremiere.com/products/068088392afe4e92bf23ae6d5d294cbd/11111665140",
-        
+        UA:"",
         QA:"",
 
     },
-
+//Kind Browcara Black
     product47: {
 
         PH:"https://shop.jcpremiere.com/products/85fe53dcf5824fe4a0355d84f40f2e55/11111665140",
-        
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/197297144a6e4940b79bc5b008c70919/11111665140",
+        QA:"https://shop.jcpremiere.com/products/866d91616dc944b78af90833f63d64b5/11111665140",
 
     },
-
+//Kind Browcara Brown 
     product48: {
 
         PH:"https://shop.jcpremiere.com/products/bbef6e8e92384086bb8354100c429cf4/11111665140",
-        
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/c211e5d040244cf1bcd7fa0b837ecdb6/11111665140",
+        QA:"https://shop.jcpremiere.com/products/7c7ab83c557944bf8905e45b3897b857/11111665140",
 
     },
-
+//Kind Browcara Clear 
     product49: {
 
         PH:"https://shop.jcpremiere.com/products/b32625bc59684b6d80a7afcdd1fbf175/11111665140",
-        
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/6969748fe73f4e1a90462ebdb474701e/11111665140",
+        QA:"https://shop.jcpremiere.com/products/40ab0a1c62fb49e788ccba5076a49400/11111665140",
 
     },
-
+//Kind Lashes
     product50: {
 
         PH:"https://shop.jcpremiere.com/products/5a00887edd844e42ba81b5813a3e1b9f/11111665140",
-        
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/0f46372dc14c4ae2992cee3e0bbcd64d/11111665140",
+        QA:"https://shop.jcpremiere.com/products/5a3be64c0a784f2697cb11344b423361/11111665140",
 
     },
-
+//Kind Paint Blossom 
     product51: {
 
         PH:"https://shop.jcpremiere.com/products/83c13d06007b4a34b3da608edcccc3ef/11111665140",
-        
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/147047482ad341e3bc71a8a3c785fec8/11111665140",
+        QA:"https://shop.jcpremiere.com/products/685fe9052720432486cdbbf04bffa07a/11111665140",
 
     },
-
+//Kind Paint Haven
     product52: {
 
         PH:"https://shop.jcpremiere.com/products/dcd64925753c4f18a470a9fec301df0a/11111665140",
-        
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/cc2ef2e541624113bc972653098768af/11111665140",
+        QA:"https://shop.jcpremiere.com/products/17c51fcd24504235822e155f3f6d3a1c/11111665140",
 
     },
-
+//Kind Paint Savvy
     product53: {
 
         PH:"https://shop.jcpremiere.com/products/03dd60cfd1fa44019b2c1137ad844338/11111665140",
-        
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/4dc1e2be8d28486fa2b3516838a36d7e/11111665140",
+        QA:"https://shop.jcpremiere.com/products/14528689d5834dd69d6753eec8e2855c/11111665140",
 
     },
-
+//Kind Paint Shy
     product54: {
 
         PH:"https://shop.jcpremiere.com/products/0be1e413c294418bb6a6d01fa80d560c/11111665140",
-        
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/7a7dde249a7b4aaeb2d7bcfdbc8bfda4/11111665140",
+        QA:"https://shop.jcpremiere.com/products/58f32c9a9c204de6998c91f82cca0e1a/11111665140",
 
     },
-
+//Kind Paint Sleek
     product55: {
 
         PH:"https://shop.jcpremiere.com/products/a4cc1167ad2c4fae8a95d96641554335/11111665140",
-        
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/1e6ab20067bc435b91d72db1d21373bb/11111665140",
+        QA:"https://shop.jcpremiere.com/products/8af8df41eee749ab9f76a1fedfb908a3/11111665140",
 
     },
-
+//Kind Paint Sweet 
     product56: {
 
         PH:"https://shop.jcpremiere.com/products/c72250a6a21444fe887ab132556f5fb2/11111665140",
-
-        QA:""
+        UA:"https://shop.jcpremiere.com/products/8021bfee118b44b58e7bc716fa6305ed/11111665140",
+        QA:"https://shop.jcpremiere.com/products/cd710a760adf4ac4af3781050022f1c6/11111665140"
 
     },
 
