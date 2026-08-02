@@ -67,50 +67,50 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/bdabad7af7004223a57ea943d2b786f1/11111665140",
 
-        QA:"",
+        QA:"https://shop.jcpremiere.com/products/0045ded1459a4d04bd1554d3242524fd/11111665140",
 
     },
-
+//Barley Milk Tea
     product9: {
 
         PH:"https://shop.jcpremiere.com/products/1ca9d9badeb9406484dd4c803e6ebaf2/11111665140",
-
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/8a9e0efc25304b71aba18870a574d686/11111665140",
+        QA:"https://shop.jcpremiere.com/products/1acd0b128c96495b9e977655c52bb83d/11111665140",
 
     },
-
+//Organic Barley Juice
     product10: {
 
         PH:"https://shop.jcpremiere.com/products/f5d855b789e24c43a4fe9632cb5ac644/11111665140",
-
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/838969a9bd6146339d90b2fb9a723bec/11111665140",
+        QA:"https://shop.jcpremiere.com/products/921a43c92d8f4380a18600fe9bc0dfa4/11111665140",
 
     },
-
+//Organic Barley Gold
     product11: {
 
         PH:"https://shop.jcpremiere.com/products/a8048f7aa18d4d2f8bedd59b10a2b03c/11111665140",
-
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/51f21cff597543779b05242c4983b2b2/11111665140",
+        QA:"https://shop.jcpremiere.com/products/2c0a0f58cd1d434ca566d805beb4f62f/11111665140",
 
     },
-
+//Choco Barley
     product12: {
 
         PH:"https://shop.jcpremiere.com/products/a572ab3795834432b00fcdad0ed33d97/11111665140",
-
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/7479452303b649b0a007a2d0abd5cbac/11111665140",
+        QA:"https://shop.jcpremiere.com/products/ec9ac7c0aa174e8fa733ec047dbc964b/11111665140",
 
     },
-
+//Ginger Barley 
     product13: {
 
         PH:"https://shop.jcpremiere.com/products/0c43037e924049199f9a22f65ce589ae/11111665140",
-
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/a5ac5ebd11224ae48597a9fe6d436641/11111665140",
+        QA:"https://shop.jcpremiere.com/products/0ead0024a5894bc3b28f00b8f8f3dbad/11111665140",
 
     },
-
+//Barley Collagen 
     product14: {
 
         PH:"https://shop.jcpremiere.com/products/7eb594a7ee6c48a0885a200bf43e85e4/11111665140",
