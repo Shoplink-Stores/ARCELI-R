@@ -19,56 +19,56 @@ const products = {
     product2: {
 
         PH:"https://shop.jcpremiere.com/products/a75aa1718ca54ca8bbe2402b31ab71f7/11111665140",
-
-        QA:"",
+        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
 
     },
 
     product3: {
 
         PH:"https://shop.jcpremiere.com/products/c575d232587b468fb3f10f2c98a4bc68/11111665140",
-
-        QA:"",
+        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
 
     },
 
     product4: {
 
         PH:"https://shop.jcpremiere.com/products/da47cc0c698f4a769c94ce2c8571a82f/11111665140",
-
-        QA:"",
+        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
 
     },
 
     product5: {
 
         PH:"https://shop.jcpremiere.com/products/bf60e4f81832484e8fa7a2df2ea6715f/11111665140",
-
-        QA:"",
+        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
 
     },
 
     product6: {
 
         PH:"https://shop.jcpremiere.com/products/00b820458a0145de9e139c54e8ba94bb/11111665140",
-
-        QA:"",
+        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
 
     },
 
     product7: {
 
         PH:"https://shop.jcpremiere.com/products/bd18b75dfe7149caab976d6b7e836dd2/11111665140",
-
-        QA:"",
+        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
 
     },
 
     product8: {
 
         PH:"https://shop.jcpremiere.com/products/bdabad7af7004223a57ea943d2b786f1/11111665140",
-
-        QA:"https://shop.jcpremiere.com/products/0045ded1459a4d04bd1554d3242524fd/11111665140",
+        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shop.jcpremiere.com/products",/0045ded1459a4d04bd1554d3242524fd/11111665140",
 
     },
 //Barley Milk Tea
@@ -92,7 +92,7 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/a8048f7aa18d4d2f8bedd59b10a2b03c/11111665140",
         UA:"https://shop.jcpremiere.com/products/51f21cff597543779b05242c4983b2b2/11111665140",
-        QA:"https://shop.jcpremiere.com/products/2c0a0f58cd1d434ca566d805beb4f62f/11111665140",
+        QA:"https://shop.jcpremiere.",com/products/2c0a0f58cd1d434ca566d805beb4f62f/11111665140",
 
     },
 //Choco Barley
@@ -115,7 +115,7 @@ const products = {
     product14: {
 
         PH:"https://shop.jcpremiere.com/products/7eb594a7ee6c48a0885a200bf43e85e4/11111665140",
-
+        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
         QA:"https://shop.jcpremiere.com/products/76f0c895c164469cb50536e25db1664b/11111665140",
 
     },
