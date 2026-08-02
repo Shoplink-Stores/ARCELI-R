@@ -169,7 +169,7 @@ const products = {
 
     product21: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/92f8095baf1b4a8f85775ef40a8a9543/11111665140",
 
         QA:"",
 
@@ -177,9 +177,9 @@ const products = {
 
     product22: {
 
-        PH:"https://shop.jcpremiere.com/products/a10a8a2fefe64b8185d72a24ee3af5fc/11111665140",
+        PH:"",
 
-        QA:""
+        QA:"",
 
     },
 
