@@ -350,15 +350,15 @@ const products = {
         QA:"https://shop.jcpremiere.com/products/55ca51551bef40e4ba7caf98794390e2/11111665140",
 
     },
-//Weight Loss Program 
+//K-Pads (panty liner)
     product44: {
 
         PH:"https://shop.jcpremiere.com/products/bca201e48ae444358c5d351f58d8e10d/11111665140",
-        UA:"",
-        QA:"",
+        UA:"https://shop.jcpremiere.com/products/24c8d5a61d61459f9c73483c86ae464d/11111665140",
+        QA:"https://shop.jcpremiere.com/products/9f13b068c2a144e2985a14cea7191d43/11111665140",
 
     },
-//Cell Detox Program 
+ //Weight Loss Program 
     product45: {
 
         PH:"https://shop.jcpremiere.com/products/bb44713f9c6246e8bff0e2414f666da6/11111665140",
@@ -366,7 +366,7 @@ const products = {
         QA:"",
 
     },
-//Immunity Booster Program 
+//Cell Detox Program
     product46: {
 
         PH:"https://shop.jcpremiere.com/products/068088392afe4e92bf23ae6d5d294cbd/11111665140",
@@ -374,92 +374,90 @@ const products = {
         QA:"",
 
     },
-//Kind Browcara Black
+//Immunity Booster Program 
     product47: {
 
         PH:"https://shop.jcpremiere.com/products/85fe53dcf5824fe4a0355d84f40f2e55/11111665140",
-        UA:"https://shop.jcpremiere.com/products/197297144a6e4940b79bc5b008c70919/11111665140",
-        QA:"https://shop.jcpremiere.com/products/866d91616dc944b78af90833f63d64b5/11111665140",
-
+        
     },
-//Kind Browcara Brown 
+ //Kind Browcara Black
     product48: {
 
         PH:"https://shop.jcpremiere.com/products/bbef6e8e92384086bb8354100c429cf4/11111665140",
-        UA:"https://shop.jcpremiere.com/products/c211e5d040244cf1bcd7fa0b837ecdb6/11111665140",
-        QA:"https://shop.jcpremiere.com/products/7c7ab83c557944bf8905e45b3897b857/11111665140",
-
+        UA:"https://shop.jcpremiere.com/products/197297144a6e4940b79bc5b008c70919/11111665140",
+        QA:"https://shop.jcpremiere.com/products/866d91616dc944b78af90833f63d64b5/11111665140",
+        
     },
-//Kind Browcara Clear 
+ //Kind Browcara Brown
     product49: {
 
         PH:"https://shop.jcpremiere.com/products/b32625bc59684b6d80a7afcdd1fbf175/11111665140",
-        UA:"https://shop.jcpremiere.com/products/6969748fe73f4e1a90462ebdb474701e/11111665140",
-        QA:"https://shop.jcpremiere.com/products/40ab0a1c62fb49e788ccba5076a49400/11111665140",
-
+        UA:"https://shop.jcpremiere.com/products/c211e5d040244cf1bcd7fa0b837ecdb6/11111665140",
+        QA:"https://shop.jcpremiere.com/products/7c7ab83c557944bf8905e45b3897b857/11111665140",
+        
     },
-//Kind Lashes
+//Kind Browcara Clear
     product50: {
 
         PH:"https://shop.jcpremiere.com/products/5a00887edd844e42ba81b5813a3e1b9f/11111665140",
-        UA:"https://shop.jcpremiere.com/products/0f46372dc14c4ae2992cee3e0bbcd64d/11111665140",
-        QA:"https://shop.jcpremiere.com/products/5a3be64c0a784f2697cb11344b423361/11111665140",
-
+        UA:"https://shop.jcpremiere.com/products/6969748fe73f4e1a90462ebdb474701e/11111665140",
+        QA:"https://shop.jcpremiere.com/products/40ab0a1c62fb49e788ccba5076a49400/11111665140",
+        
     },
-//Kind Paint Blossom 
+//Kind Lashes
     product51: {
 
         PH:"https://shop.jcpremiere.com/products/83c13d06007b4a34b3da608edcccc3ef/11111665140",
-        UA:"https://shop.jcpremiere.com/products/147047482ad341e3bc71a8a3c785fec8/11111665140",
-        QA:"https://shop.jcpremiere.com/products/685fe9052720432486cdbbf04bffa07a/11111665140",
-
+        UA:"https://shop.jcpremiere.com/products/0f46372dc14c4ae2992cee3e0bbcd64d/11111665140",
+        QA:"https://shop.jcpremiere.com/products/5a3be64c0a784f2697cb11344b423361/11111665140",
+        
     },
-//Kind Paint Haven
+//Kind Paint Blossom 
     product52: {
 
         PH:"https://shop.jcpremiere.com/products/dcd64925753c4f18a470a9fec301df0a/11111665140",
-        UA:"https://shop.jcpremiere.com/products/cc2ef2e541624113bc972653098768af/11111665140",
-        QA:"https://shop.jcpremiere.com/products/17c51fcd24504235822e155f3f6d3a1c/11111665140",
-
+        UA:"https://shop.jcpremiere.com/products/147047482ad341e3bc71a8a3c785fec8/11111665140",
+        QA:"https://shop.jcpremiere.com/products/685fe9052720432486cdbbf04bffa07a/11111665140",
+        
     },
-//Kind Paint Savvy
+//Kind Paint Haven
     product53: {
 
         PH:"https://shop.jcpremiere.com/products/03dd60cfd1fa44019b2c1137ad844338/11111665140",
-        UA:"https://shop.jcpremiere.com/products/4dc1e2be8d28486fa2b3516838a36d7e/11111665140",
-        QA:"https://shop.jcpremiere.com/products/14528689d5834dd69d6753eec8e2855c/11111665140",
-
+        UA:"https://shop.jcpremiere.com/products/cc2ef2e541624113bc972653098768af/11111665140",
+        QA:"https://shop.jcpremiere.com/products/17c51fcd24504235822e155f3f6d3a1c/11111665140",
+        
     },
-//Kind Paint Shy
+//Kind Paint Savvy
     product54: {
 
         PH:"https://shop.jcpremiere.com/products/0be1e413c294418bb6a6d01fa80d560c/11111665140",
-        UA:"https://shop.jcpremiere.com/products/7a7dde249a7b4aaeb2d7bcfdbc8bfda4/11111665140",
-        QA:"https://shop.jcpremiere.com/products/58f32c9a9c204de6998c91f82cca0e1a/11111665140",
-
+        UA:"https://shop.jcpremiere.com/products/4dc1e2be8d28486fa2b3516838a36d7e/11111665140",
+        QA:"https://shop.jcpremiere.com/products/14528689d5834dd69d6753eec8e2855c/11111665140",
+        
     },
-//Kind Paint Sleek
+//Kind Paint Shy
     product55: {
 
         PH:"https://shop.jcpremiere.com/products/a4cc1167ad2c4fae8a95d96641554335/11111665140",
-        UA:"https://shop.jcpremiere.com/products/1e6ab20067bc435b91d72db1d21373bb/11111665140",
-        QA:"https://shop.jcpremiere.com/products/8af8df41eee749ab9f76a1fedfb908a3/11111665140",
-
+        UA:"https://shop.jcpremiere.com/products/7a7dde249a7b4aaeb2d7bcfdbc8bfda4/11111665140",
+        QA:"https://shop.jcpremiere.com/products/58f32c9a9c204de6998c91f82cca0e1a/11111665140",
+        
     },
-//Kind Paint Sweet 
+//Kind Paint Sleek
     product56: {
 
         PH:"https://shop.jcpremiere.com/products/c72250a6a21444fe887ab132556f5fb2/11111665140",
-        UA:"https://shop.jcpremiere.com/products/8021bfee118b44b58e7bc716fa6305ed/11111665140",
-        QA:"https://shop.jcpremiere.com/products/cd710a760adf4ac4af3781050022f1c6/11111665140"
-
+        UA:"https://shop.jcpremiere.com/products/1e6ab20067bc435b91d72db1d21373bb/11111665140",
+        QA:"https://shop.jcpremiere.com/products/8af8df41eee749ab9f76a1fedfb908a3/11111665140",
+        
     },
-
+//Kind Paint Sweet 
     product57: {
 
         PH:"https://shop.jcpremiere.com/products/691db9409e7449ae879eb5632c12be3b/11111665140",
-
-        QA:""
+        UA:"https://shop.jcpremiere.com/products/8021bfee118b44b58e7bc716fa6305ed/11111665140",
+        QA:"https://shop.jcpremiere.com/products/cd710a760adf4ac4af3781050022f1c6/11111665140",
 
     },
 
