@@ -11,7 +11,8 @@ const products = {
     product1: {
 
         PH:"https://shop.jcpremiere.com/products/b0115d193f8145ba975bca69debf4950/11111665140",
-        QA:" ",
+        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
 
     },
 
