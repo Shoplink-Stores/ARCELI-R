@@ -17,7 +17,7 @@ const products = {
 
     product2: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/a75aa1718ca54ca8bbe2402b31ab71f7/11111665140",
 
         QA:""
 
@@ -25,7 +25,7 @@ const products = {
 
     product3: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/c575d232587b468fb3f10f2c98a4bc68/11111665140",
 
         QA:""
 
@@ -33,7 +33,7 @@ const products = {
 
     product4: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/da47cc0c698f4a769c94ce2c8571a82f/11111665140",
 
         QA:""
 
@@ -41,7 +41,7 @@ const products = {
 
     product5: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/bf60e4f81832484e8fa7a2df2ea6715f/11111665140",
 
         QA:""
 
@@ -49,7 +49,7 @@ const products = {
 
     product6: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/00b820458a0145de9e139c54e8ba94bb/11111665140",
 
         QA:""
 
@@ -57,7 +57,7 @@ const products = {
 
     product7: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/bd18b75dfe7149caab976d6b7e836dd2/11111665140",
 
         QA:""
 
@@ -65,7 +65,7 @@ const products = {
 
     product8: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/bdabad7af7004223a57ea943d2b786f1/11111665140",
 
         QA:""
 
@@ -73,7 +73,7 @@ const products = {
 
     product9: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/1ca9d9badeb9406484dd4c803e6ebaf2/11111665140",
 
         QA:""
 
@@ -81,7 +81,7 @@ const products = {
 
     product10: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/f5d855b789e24c43a4fe9632cb5ac644/11111665140",
 
         QA:""
 
@@ -89,7 +89,7 @@ const products = {
 
     product11: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/a8048f7aa18d4d2f8bedd59b10a2b03c/11111665140",
 
         QA:""
 
@@ -97,7 +97,7 @@ const products = {
 
     product12: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/a572ab3795834432b00fcdad0ed33d97/11111665140",
 
         QA:""
 
@@ -105,7 +105,7 @@ const products = {
 
     product13: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/0c43037e924049199f9a22f65ce589ae/11111665140",
 
         QA:""
 
@@ -113,7 +113,7 @@ const products = {
 
     product14: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/7eb594a7ee6c48a0885a200bf43e85e4/11111665140",
 
         QA:""
 
@@ -121,7 +121,7 @@ const products = {
 
     product15: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/58e3d79e18324d34a9d190070cb9c6f7/11111665140",
 
         QA:""
 
@@ -129,7 +129,7 @@ const products = {
 
     product16: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/a52e38f1a59e4b0fa9c931621d6fa4c2/11111665140",
 
         QA:""
 
@@ -137,7 +137,7 @@ const products = {
 
     product17: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/6f2d9836253547e6a305f4f478979c2a/11111665140",
 
         QA:""
 
@@ -145,7 +145,7 @@ const products = {
 
     product18: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/92f8095baf1b4a8f85775ef40a8a9543/11111665140",
 
         QA:""
 
@@ -153,7 +153,7 @@ const products = {
 
     product19: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/a8b46b3b0b754b5db41b7679f2e948bb/11111665140",
 
         QA:""
 
@@ -161,7 +161,7 @@ const products = {
 
     product20: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/5877e5b1d21e4d5db3cec55b3c5544f7/11111665140",
 
         QA:""
 
@@ -169,7 +169,7 @@ const products = {
 
     product21: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/85e785e46c91428abc402203af57988c/11111665140",
 
         QA:""
 
@@ -177,7 +177,7 @@ const products = {
 
     product22: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/a10a8a2fefe64b8185d72a24ee3af5fc/11111665140",
 
         QA:""
 
@@ -185,7 +185,7 @@ const products = {
 
     product23: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/a8e4f5e095014656a198a27fcec9eb4b/11111665140",
 
         QA:""
 
@@ -193,7 +193,7 @@ const products = {
 
     product24: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/ed228ebc49a9408b8d8f5b31e9d9d8c8/11111665140",
 
         QA:""
 
@@ -201,7 +201,7 @@ const products = {
 
     product25: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/b97e18b296c94e0184af95e670898043/11111665140",
 
         QA:""
 
@@ -209,7 +209,7 @@ const products = {
 
     product26: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/ba041fabc2ba4bce88fe11da3dcb18b9/11111665140",
 
         QA:""
 
@@ -217,7 +217,7 @@ const products = {
 
     product27: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/d3c993ed5ad64d93a18b46b56c85ed01/11111665140",
 
         QA:""
 
@@ -225,7 +225,7 @@ const products = {
 
     product28: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/470ce6bcaa584c228745bc36b4b3fe76/11111665140",
 
         QA:""
 
@@ -233,7 +233,7 @@ const products = {
 
     product29: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/24ae0276a3dd46da8792c863394983f9/11111665140",
 
         QA:""
 
@@ -241,7 +241,7 @@ const products = {
 
     product30: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/25ad09edae604d33a31e86d268a0d274/11111665140",
 
         QA:""
 
@@ -249,7 +249,7 @@ const products = {
 
     product31: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/48d5a7e5106243f79db568a40517e039/11111665140",
 
         QA:""
 
@@ -257,7 +257,7 @@ const products = {
 
     product32: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/0bacf12d76c54111836f2f671f952b48/11111665140",
 
         QA:""
 
@@ -265,7 +265,7 @@ const products = {
 
     product33: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/128491b082034368a50548c2cca2f7e1/11111665140",
 
         QA:""
 
@@ -273,7 +273,7 @@ const products = {
 
     product34: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/a0a6b6457a0045b8b0fdf57fd74c6337/11111665140",
 
         QA:""
 
@@ -281,7 +281,7 @@ const products = {
 
     product35: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/d04cee70548e4f5cbf4d0bdd0fa155b9/11111665140",
 
         QA:""
 
@@ -289,7 +289,7 @@ const products = {
 
     product36: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/3b2acec7858446ee9ba3b00b0e077f6f/11111665140",
 
         QA:""
 
@@ -297,7 +297,7 @@ const products = {
 
     product37: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/38a6f4f50eea46688e843ad74ae85314/11111665140",
 
         QA:""
 
@@ -305,7 +305,7 @@ const products = {
 
     product38: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/81e6163cec1343c1ba9ada11a5e5bfa3/11111665140",
 
         QA:""
 
@@ -313,7 +313,7 @@ const products = {
 
     product39: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/e5baf433b8334fdba90bd84fa11edcb9/11111665140",
 
         QA:""
 
@@ -321,7 +321,7 @@ const products = {
 
     product40: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/f1f55343af394008ad66ca572a3bdba2/11111665140",
 
         QA:""
 
@@ -329,7 +329,7 @@ const products = {
 
     product41: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/18e6d917128c4d0ba7ed97c868ecf22a/11111665140",
 
         QA:""
 
@@ -337,7 +337,7 @@ const products = {
 
     product42: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/bca201e48ae444358c5d351f58d8e10d/11111665140",
 
         QA:""
 
@@ -345,7 +345,7 @@ const products = {
 
     product43: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/bb44713f9c6246e8bff0e2414f666da6/11111665140",
 
         QA:""
 
@@ -353,7 +353,7 @@ const products = {
 
     product44: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/068088392afe4e92bf23ae6d5d294cbd/11111665140",
 
         QA:""
 
@@ -361,7 +361,7 @@ const products = {
 
     product45: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/85fe53dcf5824fe4a0355d84f40f2e55/11111665140",
 
         QA:""
 
@@ -369,7 +369,7 @@ const products = {
 
     product46: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/bbef6e8e92384086bb8354100c429cf4/11111665140",
 
         QA:""
 
@@ -377,7 +377,7 @@ const products = {
 
     product47: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/b32625bc59684b6d80a7afcdd1fbf175/11111665140",
 
         QA:""
 
@@ -385,7 +385,7 @@ const products = {
 
     product48: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/5a00887edd844e42ba81b5813a3e1b9f/11111665140",
 
         QA:""
 
@@ -393,7 +393,7 @@ const products = {
 
     product49: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/83c13d06007b4a34b3da608edcccc3ef/11111665140",
 
         QA:""
 
@@ -401,7 +401,7 @@ const products = {
 
     product50: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/dcd64925753c4f18a470a9fec301df0a/11111665140",
 
         QA:""
 
@@ -409,7 +409,7 @@ const products = {
 
     product51: {
 
-        PH:"",
+        PH:"https://shop.jcpremiere.com/products/03dd60cfd1fa44019b2c1137ad844338/11111665140",
 
         QA:""
 
