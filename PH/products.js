@@ -69,6 +69,7 @@ const products = {
         SGP:"https://shop.jcpremiere.com/products/7c15e69854234571aceedd9b3e7d1b13/",
         TWN:"https://shop.jcpremiere.com/products/f7bf059510c2402cb40665ea2dc5d10a/",
         CA:"https://shop.jcpremiere.com/products/af98d6fd2c3a4216b86eca6d75dec16c/",
+        JPN:"https://shop.jcpremiere.com/products/0dede550e8804c88b88c8702d0f8544c/",
     
     },
 //Organic Barley Juice
@@ -178,6 +179,7 @@ const products = {
 
         SGP:"https://shop.jcpremiere.com/products/30f46eeab21b47f79c144104d3b46138/",
         CA:"https://shop.jcpremiere.com/products/5c036a8fb2c34db2b056bd25845fb8a7/",
+        JPN:"https://shop.jcpremiere.com/products/bacb547307f24bdea1c2767d93e212ce/",
     
     },
 //Barley Coffee Classic Tub
@@ -185,6 +187,7 @@ const products = {
 
         SGP:"https://shop.jcpremiere.com/products/72260cd88b8445beb389f1056a72c4ee/",
         CA:"https://shop.jcpremiere.com/products/a1b0dd7ae9fc4e97b776801910f5c790/",
+        JPN:"https://shop.jcpremiere.com/products/1673552dbb8445d0a7a9f274f3f34965/",
     
     },
 //Barley Coffee Black Tub
@@ -202,6 +205,7 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/92f8095baf1b4a8f85775ef40a8a9543/",
         SGP:"https://shop.jcpremiere.com/products/8a39e4fe6f0a4d8784eea4c37869c487/",
         CA:"https://shop.jcpremiere.com/products/39a4b6661e1f46f390ddf6d7e4ae7587/",
+        JPN:"https://shop.jcpremiere.com/products/086730cbccf84c58a51a00df0ec11497/",
     
     },
 //Organic Barley Capsule 
@@ -486,6 +490,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/adb1f9c4fb494559891ce52686ff935b/",
         SGP:"https://shop.jcpremiere.com/products/26d9f9c23b234ab5a039658b1356e62e/",
         CA:"https://shop.jcpremiere.com/products/f043bdd07d314dd0b1ec4f883ae2ad68/",
+        JPN:"https://shop.jcpremiere.com/products/ecd1ae2a682f4371987d15aaa19e815f/",
     
     },
  //Kind Browcara Brown
@@ -533,6 +538,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/3e096bc2402842408ce1c18ce9966700/",
         SGP:"https://shop.jcpremiere.com/products/04d30564a01741388ef014b84f9fa576/",
         CA:"https://shop.jcpremiere.com/products/69f1b746a95f489b8a764ee1a559bbc6/",
+        JPN:"https://shop.jcpremiere.com/products/e651a39401494efaa3ea39128210442f/",
     
     },
 //Kind Paint Haven
@@ -580,6 +586,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/25db8ce8a1874ea7ac8379b9496c5711/",
         SGP:"https://shop.jcpremiere.com/products/20cd3a9f45cc4ecea0f045d7b7c065a8/",
         CA:"https://shop.jcpremiere.com/products/781fa73e57f5408fae70422f36e0d18e/",
+        JPN:"https://shop.jcpremiere.com/products/fbdbcee53a8248719006d84e9e8770bc/",
     
     },
 //Kind Paint Sweet 
