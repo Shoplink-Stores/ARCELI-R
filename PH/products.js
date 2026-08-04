@@ -170,6 +170,7 @@ const products = {
         SGP:"https://shop.jcpremiere.com/products/2d16aec3552b4bdeb4ef56718319775d/",
         TWN:"https://shop.jcpremiere.com/products/43898ecd9d974ceeb6802cec367e110d/",
         CA:"https://shop.jcpremiere.com/products/d79cb67f46aa411288da8275fc66f06b/",
+        JPN:"https://shop.jcpremiere.com/products/455f54e9920a487e8ecd0cfaba4ea6f8/",
     
     },
 //Barley Coffee Mocha Tub
@@ -192,6 +193,7 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/a8b46b3b0b754b5db41b7679f2e948bb/",
         SGP:"https://shop.jcpremiere.com/products/e9371aa17a25430887fbc9a7fd073a41/",
         CA:"https://shop.jcpremiere.com/products/2e3916163ddd4d98907f9b8e8ffcc20b/",
+        JPN:"https://shop.jcpremiere.com/products/04678a61a3ab4ed68cf347734a2d530d/",
     
     },
 //Organic Barley Juice In Tub
@@ -210,6 +212,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/7d947b56d05046b2a65d819de7c01e01/",
         SGP:"https://shop.jcpremiere.com/products/2d6a45c0d856493c9e8b7308c9af2bf0/",
         CA:"https://shop.jcpremiere.com/products/e766157673cd4171a657477da683db54/",
+        JPN:"https://shop.jcpremiere.com/products/1d16ac40ae974560a68f48f82c638523/",
     
     },
 //Kind Hydrating Matte Sunstick
@@ -218,7 +221,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/85e785e46c91428abc402203af57988c/",
         ITA:"https://shop.jcpremiere.com/products/77445c12e0e648cf8194a13e3afebb56/",
         SGP:"https://shop.jcpremiere.com/products/73401f2f90264820af35346edfa2b4ed/",
-        
+        JPN:"https://shop.jcpremiere.com/products/d91e21e8456a462096b3448d9c323dbf/",
+    
     },
 //Kind Revitalizing Anti-Wrinkle Facial Cream 
     product24: {
@@ -249,6 +253,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/fdde7312051d4bd492d08e14abb584e3/",
         SGP:"https://shop.jcpremiere.com/products/c5cad460edca4cd386864836662ced7b/",
         CA:"https://shop.jcpremiere.com/products/2c9dfac16638420da3d089ba1913d1c3/",
+        JPN:"https://shop.jcpremiere.com/products/adb04ba5b3d64299a6628d5f4b7ef77f/",
     
     },
 //Kind Hydrating Cleansing Foam 
@@ -259,6 +264,8 @@ const products = {
         QA:"https://shop.jcpremiere.com/products/3c929be462034373b25d12ca0bf5d742/",
         ITA:"https://shop.jcpremiere.com/products/58fc5579c98a4f32bd176ee5c7190db3/",
         SGP:"https://shop.jcpremiere.com/products/73346f4591df40d8aa0315e2de77e8cd/",
+        JPN:"https://shop.jcpremiere.com/products/8421e14a63df4a639a15dc6138b258de/",
+    
     },
 //Kind Intensive Whitening Facial Cream 
     product28: {
@@ -268,7 +275,8 @@ const products = {
         QA:"https://shop.jcpremiere.com/products/61111be0be354197bc161535c4004349/",
         ITA:"https://shop.jcpremiere.com/products/cf248c70530a44f1840d736d9ab266c3/",
         SGP:"https://shop.jcpremiere.com/products/49b62a425ec145ad994a17c28253e0a5/",
-        
+        JPN:"https://shop.jcpremiere.com/products/8421e14a63df4a639a15dc6138b258de/",
+    
     },
 //Kind Intensifying BB Cream
     product29: {
@@ -288,6 +296,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/da508c60b9a44114aeea221174f296cf/",
         SGP:"https://shop.jcpremiere.com/products/900f0a4c53d5407ea36fc39cbd0cfe31/",
         CA:"https://shop.jcpremiere.com/products/358b30daac224c9188179fd7bc6a3325/",
+        JPN:"https://shop.jcpremiere.com/products/9cce1739ce2d4e589338b58cc1f29549/",
     
     },
 //Kind Revitalizing Toner
@@ -299,6 +308,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/c0a4309daa204126a36e27e00f101082/",
         SGP:"https://shop.jcpremiere.com/products/197816cc7baa442b91b192e0cccee9da/",
         CA:"https://shop.jcpremiere.com/products/e771deaee4a145c6a3f38155fd9a8b69/",
+        JPN:"https://shop.jcpremiere.com/products/c4a7cfba1c5646d69528cf5bd47f6e83/",
     
     },
 //Kind Revitalizing Anti-Wrinkle Facial Serum 
@@ -309,6 +319,7 @@ const products = {
         QA:"https://shop.jcpremiere.com/products/9deeb2c2ade94f6ca7354ed48998e037/",
         ITA:"https://shop.jcpremiere.com/products/c79f9efb8c8c4a5d8b2fa3fbd5db2053/",
         CA:"https://shop.jcpremiere.com/products/b168e60c779246059a054cf2394b3f0b/",
+        JPN:"https://shop.jcpremiere.com/products/ffadb5b2803640509ff9e08c25a11b0b/",
     
     },
 //Kind Intensive Whitening Facial Serum
