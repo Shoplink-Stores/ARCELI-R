@@ -22,6 +22,7 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/da47cc0c698f4a769c94ce2c8571a82f/",
         CA:"https://shop.jcpremiere.com/products/2ddf440618e44032bb2282eb2c5622f5/",
+        JPN:"https://shop.jcpremiere.com/products/5e2a6d43ddd1456398274e6d23109d45/",
     
     },
 //Matcha Barley Latte
@@ -29,6 +30,7 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/bf60e4f81832484e8fa7a2df2ea6715f/",
         CA:"https://shop.jcpremiere.com/products/a2790d000e1643829be11db2355998a9/",
+        JPN:"https://shop.jcpremiere.com/products/3e61ca2a4e234139bf695ff967105bc9/",
     
     },
 //Pro-biotics 
@@ -54,6 +56,7 @@ const products = {
         SGP:"https://shop.jcpremiere.com/products/a4c3f50d25f441bf87c614f4962774e5/",
         TWN:"https://shop.jcpremiere.com/products/d55b79f4cc51461c8f6b0533db706955/",
         CA:"https://shop.jcpremiere.com/products/d27bf15ec338422aa2b079ee966a9ce0/",
+        JPN:"https://shop.jcpremiere.com/products/ad3a4ba571c54dd4925b2ad142bdd1df/",
     
     },
 //Barley Milk Tea
@@ -78,6 +81,7 @@ const products = {
         SGP:"https://shop.jcpremiere.com/products/cbae1f27c4d7425cbc558ec4bb9db5e9/",
         TWN:"https://shop.jcpremiere.com/products/f5a158a476b74bd8a982080c30f43255/",
         CA:"https://shop.jcpremiere.com/products/cd0e1a86167f476fbea32cfcf302d6e2/",
+        JPN:"https://shop.jcpremiere.com/products/3382c17c65514b8dbdeef5238df52e83/",
     
     },
 //Organic Barley Gold
@@ -90,6 +94,7 @@ const products = {
         SGP:"https://shop.jcpremiere.com/products/91dd2d2d0b0341c69b5a52bed9e9a1e5/",
         TWN:"https://shop.jcpremiere.com/products/7601664d21cf4ba480034062c8cf5b4b/",
         CA:"https://shop.jcpremiere.com/products/ccc5f0159d214c82877c27aa52f284e6/",
+        JPN:"https://shop.jcpremiere.com/products/46532de2ba0e40d6807aab6526b59099/",
     
     },
 //Choco Barley
@@ -102,6 +107,7 @@ const products = {
         SGP:"https://shop.jcpremiere.com/products/233ab11b33384a5fb41fdc61d2d2402c/",
         TWN:"https://shop.jcpremiere.com/products/ec7b7e71ebc34042b78d84512bcc8fdc/",
         CA:"https://shop.jcpremiere.com/products/451e50bf3cd24ba58b7c4b7ee3383d02/",
+        JPN:"https://shop.jcpremiere.com/products/2e2e47f7af4243a68e4b472bad211bec/",
     
     },
 //Ginger Barley 
@@ -114,6 +120,7 @@ const products = {
         SGP:"https://shop.jcpremiere.com/products/7ea2a5fbb7bd484f88a4bcfc5c04939b/",
         TWN:"https://shop.jcpremiere.com/products/bff3e7404e1c4031b8cd6eb6cdaee7c4/",
         CA:"https://shop.jcpremiere.com/products/5c020977300a4b5d98dff41de1d14c10/",
+        JPN:"https://shop.jcpremiere.com/products/735681c204d14c25b363f64a5a50647d/",
     
     },
 //Barley Collagen 
