@@ -131,6 +131,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/7a20458f5ce6443c82aa1b2522ef1553/",
         SGP:"https://shop.jcpremiere.com/products/7914ced666e54c42a0301b9d808406bd/",
         CA:"https://shop.jcpremiere.com/products/ec71783e5e1849e0b5bf3f906ec1ac0d/",
+        JPN:"https://shop.jcpremiere.com/products/94bbc32c4ca94b08ac21e337e4e64fb5/",
     
     },
 //Barley Coffee Black 
@@ -143,6 +144,7 @@ const products = {
         SGP:"https://shop.jcpremiere.com/products/0e7ee0f8044b4dcfafcc0b8e1fded761/",
         TWN:"https://shop.jcpremiere.com/products/f1e6baa440154e44b8c4c822905c4d5d/",
         CA:"https://shop.jcpremiere.com/products/91395f85c78344089cd0d4b68d0900db/",
+        JPN:"https://shop.jcpremiere.com/products/1f2cb40c772c41cbad4f46e83e2a513b/",
     
     },
 //Barley Coffee Classic 
@@ -155,6 +157,7 @@ const products = {
         SGP:"https://shop.jcpremiere.com/products/e5268e6b3d144a3a8db6d1041cc47b99/",
         TWN:"https://shop.jcpremiere.com/products/7f1c4e4d408044e9b3fc731698d8e830/",
         CA:"https://shop.jcpremiere.com/products/c63c358637c444e5a7bc39a9794e32b7/",
+        JPN:"https://shop.jcpremiere.com/products/a8cc31c28a8746c9a8897920bc47dc33/",
     
     },
 //Barley Coffee Mocha
