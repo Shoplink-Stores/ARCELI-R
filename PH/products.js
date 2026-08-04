@@ -233,6 +233,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/bf6633e089104994ada2e09c82aa97f8/",
         SGP:"https://shop.jcpremiere.com/products/71843314a0424c039ead24f97d3a6c47/",
         CA:"https://shop.jcpremiere.com/products/ab01f8147b274831bf0d7480a7e7cd3a/",
+        JPN:"https://shop.jcpremiere.com/products/d0f9e8136ea44259b421ae5ceb37cedd/",
     
     },
 //Calvi - C
@@ -285,7 +286,8 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/45dcf7f9f36d4714864070f0827294ba/",
         QA:"https://shop.jcpremiere.com/products/de7550963e8b454388d09e7acb10848f/",
         ITA:"https://shop.jcpremiere.com/products/28b4b33c5ef346e895766288ac0cd04a/",
-        
+        JPN:"https://shop.jcpremiere.com/products/3357a59604474a5eb7f5ece3a8fdf558/",
+    
     },
 //Kind Revitalizing Eye Cream 
     product30: {
@@ -329,7 +331,8 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/fbe05e9e65fa43beb7fabfd8c4cb37f4/",
         QA:"https://shop.jcpremiere.com/products/78b7c5aaea1441009cdbed9b7aaf6c50/",
         ITA:"https://shop.jcpremiere.com/products/1a11eeb0aba042929e5653c5e68d89b1/",
-        
+        JPN:"https://shop.jcpremiere.com/products/0ed199bfb5da4afd9ae6aec6b4f69db1/",
+    
     },
 //GlutaFit
     product34: {
@@ -338,6 +341,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/cd97a67c22ab41279e66017f41ddd0c6/",
         SGP:"https://shop.jcpremiere.com/products/c2c860a7ba84479fad1e26c65657e2a1/",
         CA:"https://shop.jcpremiere.com/products/d3faebba1c5a4ccc875a8b082c44a8e6/",
+        JPN:"https://shop.jcpremiere.com/products/3e454c741575440193a753e3bbe885c3/",
     
     },
 //4Green 
@@ -357,6 +361,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/0087501ff43b4bf2adfa8678c9d2d210/",
         SGP:"https://shop.jcpremiere.com/products/16ae3ff8052847c28fba761c26651482/",
         CA:"https://shop.jcpremiere.com/products/a81fd025929b45749c8b23c6663fcb71/",
+        JPN:"https://shop.jcpremiere.com/products/58ea4919d4d646379e2b4b3493930757/",
     
     },
 //Natures Own Conditioner 
@@ -368,6 +373,7 @@ const products = {
         SGP:"https://shop.jcpremiere.com/products/e2147db556914fe69ae00e29e3276b50/",
         TWN:"https://shop.jcpremiere.com/products/e42b252e59094b7aaa4d9d7dff23da5f/",
         CA:"https://shop.jcpremiere.com/products/6fd305397c8e4ab881e1190ca030721b/",
+        JPN:"https://shop.jcpremiere.com/products/9a55d445bfd14102b685a3b46439f3b7/",
     
     },
 //Natures Own Shampoo 
@@ -379,6 +385,7 @@ const products = {
         SGP:"https://shop.jcpremiere.com/products/f2aae5fe39f94e05aede9904af86b601/",
         TWN:"https://shop.jcpremiere.com/products/917e3773ab254af7ad3f9bccf20f1385/",
         CA:"https://shop.jcpremiere.com/products/8a29f7d308784a04a4b5d35ca7b60fe5/",
+        JPN:"https://shop.jcpremiere.com/products/b5e6a46dc02d4c559c444b4dd7a55f27/",
     
     },
 //Natures Own Bodywash 
@@ -390,6 +397,7 @@ const products = {
         SGP:"https://shop.jcpremiere.com/products/ce64646c0c8a47c29f951a41d06a99f5/",
         TWN:"https://shop.jcpremiere.com/products/1749ccbb92ea4e57b27fb86f30912a10/",
         CA:"https://shop.jcpremiere.com/products/75fbdf056e0e4b6886b2fad945bce498/",
+        JPN:"https://shop.jcpremiere.com/products/756dee8e3de747e3b4df083a315e2fe2/",
     
     },
 //Omni White Soap 
@@ -401,6 +409,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/2da4002ed84b4cb3a3013c33fc56709b/",
         SGP:"https://shop.jcpremiere.com/products/148fe11fbc9548ab94cd7d42edcc8073/",
         TWN:"https://shop.jcpremiere.com/products/897b803fa8e94b0c9cf7d5c229fd9efc/",
+        JPN:"https://shop.jcpremiere.com/products/2cfa9a7a6b4148d0b2172cc3da718433/",
     
     },
 //K-Pads (Day)
@@ -412,6 +421,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/fbbb3073ba1b4ef991b5e2203cec2125/",
         SGP:"https://shop.jcpremiere.com/products/e458e07dbc1444939a01f39c0bba1d08/",
         CA:"https://shop.jcpremiere.com/products/0a6334d8dbd2492c88fb6fdac1ba0b0a/",
+        JPN:"https://shop.jcpremiere.com/products/f9be9513d666455ca1857794689cbb0a/",
     
     },
 //Omni White Kojic Soap 
