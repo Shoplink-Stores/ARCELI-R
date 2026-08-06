@@ -90,6 +90,7 @@ const products = {
         JPN:"https://shop.jcpremiere.com/products/3382c17c65514b8dbdeef5238df52e83/",
         UK:"https://shop.jcpremiere.com/products/032fcc67ac2d4439a5c8c7c8bfac3604/",
         HRV:"https://shop.jcpremiere.com/products/0fa34af736ad4369a5c8b07940b6fc8f/",
+        SA:"https://shop.jcpremiere.com/products/2376e62af73b479390a00848effb35ca/",
     
     },
 //Organic Barley Gold
@@ -135,6 +136,7 @@ const products = {
         JPN:"https://shop.jcpremiere.com/products/735681c204d14c25b363f64a5a50647d/",
         UK:"https://shop.jcpremiere.com/products/d4b137f9702c4fddb85dce9d6a5d9d72/",
         HRV:"https://shop.jcpremiere.com/products/3526f28527504b44aa4caaab6519f496/",
+        SA:"https://shop.jcpremiere.com/products/8e73445686d847beba09c6c97b38908c/",
     
     },
 //Barley Collagen 
@@ -163,6 +165,7 @@ const products = {
         JPN:"https://shop.jcpremiere.com/products/1f2cb40c772c41cbad4f46e83e2a513b/",
         UK:"https://shop.jcpremiere.com/products/5d0f36a7e55a40ffaa3a62ed689e641b/",
         HRV:"https://shop.jcpremiere.com/products/eb5f81912a384e3eaac4045239e1186d/",
+        SA:"https://shop.jcpremiere.com/products/4591a6f95f574396ae565746d22f705d/",
     
     },
 //Barley Coffee Classic 
@@ -178,6 +181,7 @@ const products = {
         JPN:"https://shop.jcpremiere.com/products/a8cc31c28a8746c9a8897920bc47dc33/",
         UK:"https://shop.jcpremiere.com/products/e3876200076a472cafc5cd8944c0da78/",
         HRV:"https://shop.jcpremiere.com/products/34eae0b099ad40e0956b379f7ec2d7fd/",
+        SA:"https://shop.jcpremiere.com/products/dd9cab5d910d46869864f7807a400483/",
     
     },
 //Barley Coffee Mocha
@@ -193,6 +197,7 @@ const products = {
         JPN:"https://shop.jcpremiere.com/products/455f54e9920a487e8ecd0cfaba4ea6f8/",
         UK:"https://shop.jcpremiere.com/products/5bf2cb9fb27145bbb58b56a8e68a5a93/",
         HRV:"https://shop.jcpremiere.com/products/afcfc5d0a4f04a07a29e8c6067c6a7b6/",
+        SA:"https://shop.jcpremiere.com/products/671bc1881040461aaedce18ae13b729c/",
     
     },
 //Barley Coffee Mocha Tub
